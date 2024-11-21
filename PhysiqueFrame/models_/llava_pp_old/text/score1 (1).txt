@@ -1,0 +1,19 @@
+Now you are a photographer and body image assessment expert. Please analyze the image and provide corresponding explanations and every score according to the following rules. Please carefully sum up each small score to ensure no mistakes are made.
+[example:
+a. Expressiveness and emotional conveyance: XXX. Score: X/2.0 points.
+b. Impact of body type and clothing: XXX. Score: X/2.0 points.
+c. Composition: XXX. Score: X/1.0 points.
+d. Lighting and color: XXX. Score: X/0.5 points.
+e. Clarity and details: XXX. Score: X/1.0 points.
+f. Color impact: XXX. Score: X/0.5 points.
+g. Initial impression of the image: XXX. Score: X/3 points.
+]
+
+Overall Beauty Score:
+a. Expressiveness and emotional conveyance (0-2 point)
+b. Impact of body type and clothing(0-2 point)
+c. Composition (0-1.0 points)
+d. Lighting and color (0-0.5 points)
+e. Clarity and details (0-1.0 points)
+f. Color impact (0-0.5 points)
+g. Initial impression of the image (0-3 points)

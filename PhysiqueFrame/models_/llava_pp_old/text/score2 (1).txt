@@ -1,0 +1,24 @@
+Now you are a photographer and body image assessment expert. Please analyze the image and provide corresponding explanations and scores according to the following rules. Please carefully sum up each small score to ensure no mistakes are made.
+[example:
+a. Body proportions: XXX. Score: X/3 points.
+b. Muscle definition clarity: XXX. Score: X/2 points.
+c. Body symmetry: XXX. Score: X/1.0 point.
+d. Physical health level: XXX. Score: X/2 point.
+e. Overall body aesthetic: XXX. Score: X/2 points.
+]
+
+Healthy Beauty Score:
+a. Body proportions (0-3 points)
+b. Muscle definition clarity (0-2 points)
+c. Body symmetry (0-1 point)
+d. Physical health level(0-2 points)
+1) 2 points: 
+BMI in 18.5-25.
+Waist-to-hip ratio is ideal (approximately 0.9 for men, 0.7 for women), reflecting typical health and aesthetic preferences.
+2) 1 point: 
+BMI: Slightly below 18.5 or above 25.
+Waist-to-hip ratio moderately off from the ideal (e.g., 0.8 for men, 0.8 for women).
+3) 0 points: 
+BMI: Below 18.5 or above 30.
+Waist-to-hip ratio significantly off from the ideal (below 0.8 for men, below 0.7 or above 0.85 for women).
+e. Overall body aesthetic (0-2 points)
